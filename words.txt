@@ -1,0 +1,8 @@
+opens
+clone
+bones
+peach
+shell
+bells
+right
+wrong
